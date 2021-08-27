@@ -1,0 +1,23 @@
+$marg :20px 40px 20px 20px;
+
+.nav{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+  margin: $marg;
+  background-color: rgb(194, 204, 204);
+  height: 50px;
+}
+.signin{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.signForm {
+  border:2px solid blue;
+  width: 500px;
+  padding: 20px 20px 20px 20px;
+  border-radius: 10px;
+}
