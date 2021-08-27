@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/testing-teachbace/static/css/main.4cf6eebd.chunk.css",
+    "main.js": "/testing-teachbace/static/js/main.52a7a01f.chunk.js",
+    "main.js.map": "/testing-teachbace/static/js/main.52a7a01f.chunk.js.map",
+    "runtime-main.js": "/testing-teachbace/static/js/runtime-main.294c6f63.js",
+    "runtime-main.js.map": "/testing-teachbace/static/js/runtime-main.294c6f63.js.map",
+    "static/js/2.bc993c57.chunk.js": "/testing-teachbace/static/js/2.bc993c57.chunk.js",
+    "static/js/2.bc993c57.chunk.js.map": "/testing-teachbace/static/js/2.bc993c57.chunk.js.map",
+    "index.html": "/testing-teachbace/index.html",
+    "static/css/main.4cf6eebd.chunk.css.map": "/testing-teachbace/static/css/main.4cf6eebd.chunk.css.map",
+    "static/js/2.bc993c57.chunk.js.LICENSE.txt": "/testing-teachbace/static/js/2.bc993c57.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.294c6f63.js",
+    "static/js/2.bc993c57.chunk.js",
+    "static/css/main.4cf6eebd.chunk.css",
+    "static/js/main.52a7a01f.chunk.js"
+  ]
+}
